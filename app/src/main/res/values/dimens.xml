@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="itemSpace">8dp</dimen>
+    <dimen name="imgSize">128dp</dimen>
+    <dimen name="spaceInBetween">2dp</dimen>
+</resources>
